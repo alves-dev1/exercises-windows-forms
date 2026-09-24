@@ -1,0 +1,4 @@
+﻿Extraia a pasta inteira e abra Curso.sln no Visual Studio.
+Aperte F5 para executar. Não precisa alterar o código.
+Para ver a tela: botão direito em Curso.cs > Exibir Designer.
+Requer desenvolvimento desktop .NET e .NET Framework 4.8.
