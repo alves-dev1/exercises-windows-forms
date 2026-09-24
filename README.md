@@ -27,12 +27,7 @@ Cada exercício é um projeto independente. Os programas são aplicativos de des
 - `.cs`: código C#.
 - `.Designer.cs` e `.resx`: estrutura e recursos dos formulários.
 
-## Próximas melhorias
-
-- Adicionar capturas de tela dos programas em execução.
-- Registrar o que foi aprendido em cada atividade.
-- Melhorar as validações e a apresentação conforme o avanço dos estudos.
 
 ## Contexto
 
-Atividades de estudo organizadas por Enzo Alves de Moura, estudante de Desenvolvimento de Sistemas. Parte da elaboração e da organização contou com auxílio de IA; o objetivo do repositório é estudar, testar e evoluir os exercícios.
+Atividades de estudo organizadas por Enzo Alves de Moura, estudante de Desenvolvimento de Sistemas. O objetivo do repositório é estudar, testar e evoluir os exercícios.
